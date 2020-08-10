@@ -23,11 +23,11 @@ Body-Parser
 Express and Node.js
 Mongo DB 
 ```
-# Installation Guide: Node.js | Express.js
-## Node.js on Windows
+# Installation Guide: Node.js | Express.js | MongoDB
+## Node.js on Windows : [Download](https://nodejs.org/en/)
 Installation Steps
 
-* Download the Windows installer from the Nodes.js® website. 
+* Download the Windows installer from the Nodes.js® website
 * Choose the LTS version that’s shown on the left. 
 * Run the installer (the .msi file you downloaded in the previous step.)
 * Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
@@ -37,7 +37,7 @@ Installation Steps
 
 You should see the version of node you just installed.
 
-## Node.js on Mac
+## Node.js on Mac : [Download](https://nodejs.org/en/)
 Installation Steps
 
 * Download the Mac installer from the Nodes.js® website. 
@@ -51,7 +51,29 @@ Installation Steps
 
 You should see the version of node you have just installed.
 
-### Express is a framework for Node.js it can be used by using npm package.
+## Express is a framework for Node.js it can be used by using npm package.
+npm install express
 
+# MongoDB Installation 
+## Download the msi file based on your platform(windows, mac, linux etc) [Download](https://www.mongodb.com/try/download/community)
+## Install
+* Select the latest version and click download.
+* After downloding the file double click it, and install it in complete mode.
+* Note the data directory I recommend you not to change and keep it default.
+* Uncheck Install mongodb compass, we don't need it for now.
+* Click Install now. 
+
+## Configure
+After successfully installing the latest version you need to configure the database to use it.
+
+* Navigate to your C:// drive or /home in linux 
+* Create a folder and name it "data" (make sure to name it exactly)
+* Now make another folder inside this folder named "db" (make sure to name it exactly)
+The path should now appear like this:
+### C:\data\db
+Now set alias to your database based on your database directory in your C drive.
+* cd ~ 
+* touch .bash_profile
+* now open this bash file and set alias (mongo = "just paste the directory")
 Installation details mentioned in Git Repo Issue section & Mandatorily Fork the repo 
 
