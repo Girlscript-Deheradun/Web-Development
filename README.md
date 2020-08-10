@@ -23,43 +23,31 @@ Body-Parser
 Express and Node.js
 Mongo DB 
 ```
-# Installation Guide
-## Node.js | Express.js
-### Node.js on Windows
+# Installation Guide: Node.js | Express.js
+## Node.js on Windows
 Installation Steps
 
-Download the Windows installer from the Nodes.js® website. 
-
-Choose the LTS version that’s shown on the left. 
-
-Run the installer (the .msi file you downloaded in the previous step.)
-
-Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-
-5. Restart your computer. You won’t be able to run Node.js® until you restart your computer.
-
-6. Confirm that Node has been installed successfully on your computer by opening a Hyper terminal and typing in the commands node --version
+* Download the Windows installer from the Nodes.js® website. 
+* Choose the LTS version that’s shown on the left. 
+* Run the installer (the .msi file you downloaded in the previous step.)
+* Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
+* Restart your computer. You won’t be able to run Node.js® until you restart your computer.
+* Confirm that Node has been installed successfully on your computer by opening a Hyper terminal and typing in the commands 
+### node --version
 
 You should see the version of node you just installed.
 
-### Node.js on Mac
+## Node.js on Mac
 Installation Steps
 
-Download the Mac installer from the Nodes.js® website. 
-
-Choose the LTS version that’s shown on the left. 
-
-Run the installer (double-click on the .pkg file you downloaded in the previous step.)
-
-NOTE: If you are running macOS Catalina 10.15, you might get a warning pop up
-
-To solve this issue, just right click (hold down the control key on the keyboard and click) on the .pkg file and select "Open With" and then select "Installer (default)".
-
-Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-
-Confirm that node has been installed successfully by opening a Hyper terminal and entering the command
-
-node --version
+* Download the Mac installer from the Nodes.js® website. 
+* Choose the LTS version that’s shown on the left. 
+* Run the installer (double-click on the .pkg file you downloaded in the previous step.)
+* NOTE: If you are running macOS Catalina 10.15, you might get a warning pop up
+* To solve this issue, just right click (hold down the control key on the keyboard and click) on the .pkg file and select "Open With" and then select "Installer (default)".
+* Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
+* Confirm that node has been installed successfully by opening a Hyper terminal and entering the command
+### node --version
 
 You should see the version of node you have just installed.
 
