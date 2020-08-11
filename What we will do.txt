@@ -1,6 +1,4 @@
-                          ------ GUIDED BLOG PROJECT-------
-
-                           *****STEPS TO BE FOLLOWED*****
+                                                    *****STEPS TO BE FOLLOWED*****
 
 1-->Html/css/js fundamentals
 2-->Learn to use Bootstrap
