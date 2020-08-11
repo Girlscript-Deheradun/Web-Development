@@ -1,0 +1,15 @@
+                          ------ GUIDED BLOG PROJECT-------
+
+                           *****STEPS TO BE FOLLOWED*****
+
+1-->Html/css/js fundamentals
+2-->Learn to use Bootstrap
+3-->responsive designing
+4-->git and github (overview)
+5-->overview of node.js + logic of a blog website
+6-->Database Connectivity
+
+ 
+
+
+                                           ~your mentor, Hitik.
