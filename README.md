@@ -11,7 +11,7 @@ From the event students will have :
 * Own Blog website ( Will be created in the event hands on ) 
 * Idea of start of Git and Github and open source 
 * Complete tech knowledge of start of web dev 
-
+# Download the completed Project from [here](https://github.com/hitiksaini/Blog-Website)
 ## Tech Stacks will be followed 
 
 Tech stacks that you will be learning and working with : 
